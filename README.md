@@ -1,6 +1,6 @@
 # PythonScripts
- Scripts em Python
-fifo -> script para criar uma estrutura em FIFO. 
-lifo -> script para criar uma estrutura em LIFO.
-longeststring -> script para descobrir a maior string em uma lista.
-passwordgenerator -> script para gerar senhas aleatórias.
+Scripts em Python <br>
+fifo -> script para criar uma estrutura em FIFO. <br>
+lifo -> script para criar uma estrutura em LIFO. <br>
+longeststring -> script para descobrir a maior string em uma lista. <br>
+passwordgenerator -> script para gerar senhas aleatórias. <br>
